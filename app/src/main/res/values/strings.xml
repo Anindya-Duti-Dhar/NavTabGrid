@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo Nav</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">সেটিংস</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="demo_location">Nikunja-2</string>
+
+
+</resources>
